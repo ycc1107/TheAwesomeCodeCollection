@@ -1,0 +1,4 @@
+The code is 4 times faster than 1/sqrt()
+
+The explaination for this code:
+http://www.matrix67.com/data/InvSqrt.pdf
